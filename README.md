@@ -27,8 +27,6 @@ Installation
 2.  Install dependencies:
 
     ```
-    pip install -r requirements.txt
-    ```
 
     Ensure you have TensorFlow installed with macOS Metal support if using an M1/M2 Mac:
 
