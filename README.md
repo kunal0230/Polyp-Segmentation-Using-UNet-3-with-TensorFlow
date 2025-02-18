@@ -28,11 +28,11 @@ Installation
 
     ```
 
-    Ensure you have TensorFlow installed with macOS Metal support if using an M1/M2 Mac:
+3.   Ensure you have TensorFlow installed with macOS Metal support if using an M1/M2 Mac:
 
-    ```
+    
     pip install tensorflow-macos tensorflow-metal
-    ```
+
 
 Dataset
 -------
